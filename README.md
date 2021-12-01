@@ -1,29 +1,17 @@
-# Next.js + Tailwind CSS Example
+# TRANSLATEE
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Pada dasarnya **TRANSLATEE** adalah sebuah tool untuk menterjemahkan tulisan anda ke beberapa bahasa segaligus menggunakan [Google API](https://cloud.google.com/translate/?utm_source=google&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-bkws-all-super-trial-e-dr-1009882&utm_content=ims_text-ad-none-none-DEV_c-CRE_496221890374-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20AI%20&%20ML%20~%20Cloud%20Translation_Business%20Services%20-%20Translation%20-%20google%20api%20translate-KWID_43700060584985955-kwd-44597176712&userloc_1007714-network_g&utm_term=KW_google%20api%20translate&gclid=Cj0KCQiA15yNBhDTARIsAGnwe0W9FNN5ZNtjwKN4u6GEbv36NaLDPn4Rhl4zBqLK2VAvQa5fcQ1ZbTEaAhKwEALw_wcB&gclsrc=aw.ds), secara default **TRANSLATEE** akan menterjemahkan dari bahasa indonesia ke bahasa belanda _(Netherland)_ dan kembali ke indonesia.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+# Demo
 
-## Preview
-
-Preview the example live on [StackBlitz](http://stackblitz.com/):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+-
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+clone this repo:
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+yarn dev
+
+```
