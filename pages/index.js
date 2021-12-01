@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div className="min-h-screen antialiased text-gray-200 bg-gray-100">
       <Head>
-        <title>Create Next App</title>
+        <title>TRANSLATEE</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
