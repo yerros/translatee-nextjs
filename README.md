@@ -4,7 +4,7 @@ Pada dasarnya **TRANSLATEE** adalah sebuah tool untuk menterjemahkan tulisan and
 
 # Demo
 
--
+- https://translatee-nextjs.vercel.app/
 
 ## How to use
 
